@@ -1,1 +1,1 @@
-# Homicide
+Homicide data analysis helps identify risk factors associated with different demographics, geographic locations, or socio-economic conditions, aiding in the development of targeted interventions.The objectives and goals of analyzing homicide data is to gain insight into the global distribution of homicides and identify regions with high or low rates & analyze and compare homicide rates across countries and continents to identify patterns and trends.Identify trends or fluctuations in global homicide rates over the specified time period
